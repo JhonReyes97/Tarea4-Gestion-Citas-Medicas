@@ -73,7 +73,7 @@ Las evidencias del desarrollo práctico se encuentran organizadas en la carpeta 
 | 6 | Índice único y validación | [Ver evidencia 06](evidencias/Evidencia_06_Indice_unico_y_validacion.png) |
 | 7 | Consultas y resultados | [Ver evidencia 07](evidencias/Evidencia_07_Consultas_y_resultados.png) |
 
-También se incluye el aporte individual en formato Word: [Aporte individual](evidencias/Aporte_individual_Tarea4.docx).
+También se incluye el aporte individual en formato Word: [Aporte individual de Jhon Reyes](evidencias/Aporte_individual_Tarea4_Jhon_Reyes.docx).
 
 ## 11. Repositorio de código
 
